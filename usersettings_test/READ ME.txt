@@ -1,0 +1,2 @@
+Winfile: UserConfig.zip must be unzipped to
+"C:\Users\Admin\source\repos\usersettings_test\usersettings_test\bin\Debug"
